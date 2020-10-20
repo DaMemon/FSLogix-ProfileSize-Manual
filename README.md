@@ -1,4 +1,4 @@
-# FSLogix-ProfileSize-Manual
+# FSLogix-FolderSize-Manual
 
 Script: Run script manually by IT person from PowerShell or PowerShell ISE and get the result of the size of the folder which is larger than the MAx Size(GB).
 
